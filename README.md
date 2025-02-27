@@ -19,7 +19,7 @@
 
 **Chat Encriptado** permite a los usuarios intercambiar mensajes de texto de forma segura y privada, ya que todos los mensajes son encriptados utilizando el algoritmo MD5. El chat está diseñado para ser simple de usar pero seguro, asegurando que la información compartida esté protegida de terceros.
 
-### 🧑‍💻 **Características principales**:
+### 👨🏻‍💻 **Características principales**:
 - 👤 **Inicio de sesión**: Los usuarios ingresan su nombre al inicio del chat.
 - 💬 **Mensajes en tiempo real**: Los usuarios pueden enviar y recibir mensajes instantáneamente.
 - 🔐 **Encriptación**: Todos los mensajes se encriptan antes de ser enviados.
